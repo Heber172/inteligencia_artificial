@@ -17,12 +17,7 @@ require("./shared_new/header.php");
                 <li class="breadcrumb-item text-t"><b>Orden Producción</b>
                 </li>
             </ol>
-        </div>
-        <div>
-            <a href="" class="btn btn-primary">
-                <i class="ti ti-truck me-2"></i> Seguimiento General
-            </a>
-        </div>
+        </div> 
     </div>
     <div class="row">
         <div class="col-12">
